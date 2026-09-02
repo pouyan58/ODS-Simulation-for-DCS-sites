@@ -1,0 +1,2 @@
+outerAngleDeg,innerAngleDeg,worstExceedancePercent,robustExceedancePercent,medianExceedancePercent,maximumIOverNDb,p95IOverNDb,practicalPercentileIOverNDb,robustAvailabilityPercent,retaskDutyPercent,shutdownDutyPercent,taperDutyPercent,deepNullDutyPercent,feasible,score
+43,1.5,0,0,0,-6.70250592808807,-27.6855785954496,-10.2189618797943,100,18.5841707124308,0.0217793749319395,18.5841707124308,0.0217793749319395,1,44.5
