@@ -197,10 +197,7 @@ N_dBm = 10 log10(N_W) + 30
 
 The receive-pattern envelope follows ITU-R S.580-6, using the attached
 APEREC015 Appendix 8 extension when `D/lambda < 50`. Peak gain is calculated
-from diameter, efficiency, and wavelength. Beyond the S.580 far-angle
-breakpoint, the release applies a -27 dBi override to every catalog receiver.
-That common level is an unverified sensitivity assumption; measured
-azimuth/elevation patterns should replace it for operational work.
+from diameter, efficiency, and wavelength. 
 
 ## Constellation, spot beams, and traffic
 
